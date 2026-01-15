@@ -8,7 +8,7 @@ import json
       [
         "windows_open",
         "==",
-        true
+        True
       ]
     ],
     "action": {
